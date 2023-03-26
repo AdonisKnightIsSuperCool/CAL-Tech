@@ -1,7 +1,9 @@
 body {
     background-color: #ADD7F6;
+    border-style: inset;
+    border-color: white;
 }
 
 p {
-    color: #87BFFF;
+    color: #2667FF;
 }
